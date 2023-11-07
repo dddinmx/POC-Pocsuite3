@@ -18,5 +18,6 @@
 **Yongyou**  
 • yongyou_BeanShell_CNVD-2021-30167  
   
-**other**  
+**2023**  
 • 海康威视iVMS综合安防系统任意文件上传漏洞  
+• SolarView_CVE-2023-23333  
