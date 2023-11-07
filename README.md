@@ -13,6 +13,7 @@
 • Apache_Struts2_053  
 • Apache_Struts2_061  
 • Apache_Struts2_DevMode  
+• Apache_APISIX_Dashboard_未授权  
   
 **other**  
 • 海康威视iVMS综合安防系统任意文件上传漏洞  
