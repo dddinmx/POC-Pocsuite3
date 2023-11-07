@@ -1,5 +1,5 @@
 # POC-Pocsuite3
-**基于Pocsuite3编写的Poc,后续随缘更新Poc**
+**自用，基于Pocsuite3编写的Poc,后续随缘更新**
 
 **2023**  
 • 海康威视iVMS综合安防系统任意文件上传漏洞  
