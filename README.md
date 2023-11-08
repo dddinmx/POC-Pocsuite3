@@ -4,6 +4,7 @@
 **2023**  
 • 海康威视iVMS综合安防系统任意文件上传漏洞  
 • SolarView_CVE-2023-23333  
+• Confluence未授权管理用户添加_CVE-2023-22515  
 
 **Apache**  
 • Apache_Struts2_001  
