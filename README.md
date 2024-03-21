@@ -2,6 +2,8 @@
 **自用，基于Pocsuite3编写，后续随缘更新**
 
 **2024**  
+• H3C 用户自助服务平台dynamiccontent.properties.xhtml RCE漏洞  
+• JEEVMS仓库管理系统任意文件读取  
 • CERIO DT系列路由器命令执行漏洞  
 • 飞鱼星企业级上网行为管理系统前台RCE 0Day  
 • 金和OA未授权信息泄露  
