@@ -2,7 +2,6 @@
 
 from collections import OrderedDict
 from pocsuite3.api import Output, POCBase, register_poc, requests, OptString
-import os
 
 class DemoPOC(POCBase):
     vulID = ""
@@ -29,8 +28,8 @@ class DemoPOC(POCBase):
         return o
 
     def _verify(self):
-        os.environ["http_proxy"] = "http://127.0.0.1:8080"
-        os.environ["https_proxy"] = "https://127.0.0.1:8080"
+        #os.environ["http_proxy"] = "http://127.0.0.1:8080"
+        #os.environ["https_proxy"] = "https://127.0.0.1:8080"
         result ={}
         urlparts = self.url
         parts = urlparts.split('/')
