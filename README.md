@@ -1,12 +1,9 @@
 # POC-Pocsuite3
 **自用，基于Pocsuite3编写，后续随缘更新**  
-使用方法：pocsuite -r [poc].py -u [url]  
-pocsuite3安装(python3环境)  
-pip3 install pocsuite3  
-设置代理  
-pocsuite -r POC.py -u [url] --proxy http://IP:PORT  
-批量验证  
-pocsuite -r POC.py -f [file.txt]  
+``使用方法: pocsuite -r [poc].py -u [url]``  
+``pocsuite3安装(python3环境): pip3 install pocsuite3``  
+``设置代理: pocsuite -r POC.py -u [url] --proxy http://IP:PORT``  
+``批量验证: pocsuite -r POC.py -f [file.txt]``  
 
 **2024**  
 • CVE-2024-0305_Ncast盈可视远程命令执行  
