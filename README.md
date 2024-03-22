@@ -5,6 +5,7 @@
 ``使用方法: pocsuite -r POC.py -u [url]``  
 ``设置代理: pocsuite -r POC.py -u [url] --proxy http://IP:PORT``  
 ``批量验证: pocsuite -r POC.py -f [file.txt]``  
+``含EXP使用 pocsuite -r POC.py -u [url] --attack --command "whoami"``  
 
 **2024**  
 • CVE-2024-0305_Ncast盈可视远程命令执行  
@@ -15,23 +16,23 @@
 • 金和OA未授权信息泄露  
 
 **2023**  
-• CVE-2023-22527_Atlassian Confluencem命令执行  
+• CVE-2023-22527_Atlassian Confluencem命令执行（含EXP）  
 • 云时空社会化商业ERP任意文件上传  
 • 海康威视iVMS综合安防系统任意文件上传漏洞  
 • SolarView_CVE-2023-23333  
-• Confluence未授权管理用户添加_CVE-2023-22515  
+• Confluence未授权管理用户添加_CVE-2023-22515（含EXP）  
 
 **Apache**  
 • Apache_Struts2_001  
 • Apache_Struts2_016  
-• Apache_Struts2_017  
+• Apache_Struts2_017（含EXP）  
 • Apache_Struts2_019  
-• Apache_Struts2_045_1  
-• Apache_Struts2_045_2  
-• Apache_Struts2_046  
+• Apache_Struts2_045_1（含EXP）  
+• Apache_Struts2_045_2（含EXP）  
+• Apache_Struts2_046（含EXP）  
 • Apache_Struts2_048  
 • Apache_Struts2_053  
-• Apache_Struts2_061  
+• Apache_Struts2_061（含EXP）  
 • Apache_Struts2_DevMode  
 • Apache_APISIX_Dashboard_未授权  
 
